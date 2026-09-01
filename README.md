@@ -103,6 +103,7 @@ curl -sL https://github.com/gamako/cs-sensei/archive/refs/heads/main.tar.gz \
 └── template/    ここの中身がコピー先になる
     ├── README.md    コピー先の説明
     ├── AGENTS.md    エージェントの振る舞いを決める文書
+    ├── PRINCIPLES.md 原理の索引
     ├── log/         学習記録
     └── work/        課題の作業場所
 ```

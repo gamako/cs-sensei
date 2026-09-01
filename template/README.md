@@ -69,6 +69,7 @@ claude     # または codex / copilot
 
 ```
 ├── AGENTS.md    エージェントの振る舞いを決める文書
+├── PRINCIPLES.md 原理の索引。log に書く「学ぶこと」の名前はここから取る
 ├── log/         学習記録。セッションごとに 1 ファイル
 └── work/        課題の作業場所
 ```
